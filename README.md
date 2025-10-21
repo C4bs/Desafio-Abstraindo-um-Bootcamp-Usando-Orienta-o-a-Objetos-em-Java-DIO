@@ -35,4 +35,17 @@ O projeto simula um **Bootcamp**, com **Cursos**, **Mentorias** e **Devs**, apli
 ---
 
 ## Estrutura do Projeto
-
+bootcamp-java/
+│
+├── src/main/java/br/com/desafio/
+│ ├── Main.java
+│ ├── models/
+│ │ ├── Bootcamp.java
+│ │ ├── Conteudo.java
+│ │ ├── Curso.java
+│ │ ├── Mentoria.java
+│ │ └── Dev.java
+│ └── enums/ (opcional)
+│
+├── README.md
+└── .gitignore
